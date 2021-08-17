@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://enzodgcs.github.io/"
+baseURL = "https://enzodgcs.github.io/tribute"
 languageCode = "en-us"
 title = "Tribute | Clothing"
 theme = "hargo"
