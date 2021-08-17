@@ -1,0 +1,24 @@
+############################# contact info ################
+contact:
+  enable : true
+  # office
+  office:
+    title : "Melhor forma via [Whatsapp](https://api.whatsapp.com/send?phone=5521979783523)"
+    # content : ""
+    # other information comes from "config.toml"
+
+  # opennig hour
+  opennigHour:
+    title : "Horario de atendimento"
+    dayTimeList:
+      - dayTime : "Segunda: 9:00 – 19:00"
+      - dayTime : "Terca: 9:00 – 19:00"
+      - dayTime : "Quarta: 9:00 – 19:00"
+      - dayTime : "Quinta: 9:00 – 19:00"
+      - dayTime : "Sexta: 9:00 – 19:00"
+      - dayTime : "Sabado: 9:00 – 19:00"
+      - dayTime : "Domingo: 9:00 – 19:00"
+
+####################### google map ########################
+map:
+  enable: true
