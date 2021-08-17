@@ -1,17 +1,17 @@
 ---
-title: "bong"
+title: "Eazy-E"
 date: 2021-5-17T11:22:16-03:00
 draft: false
 
 # meta description
-description : "pra hitar serinho"
+description : "Drop 00 - Eazy-E shirt - black - 100% cotton 30.1"
 
 # product Price
-price: "40.00"
-priceBefore: "50.00"
+price: "35.00"
+priceBefore: "40.00"
 
 # Product Short Description
-shortDescription: "so porradao"
+shortDescription: "Drop 00 - Eazy-E"
 
 #product ID
 productID: "1"
